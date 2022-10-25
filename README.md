@@ -1,6 +1,8 @@
 ## Repositório Python 
 
+<p align="justify">
 Neste repositório, apresento minhas práticas com a linguagem de programação Python aplicada a análise de dados com aprendizado de máquina, estatística e matemática. 
+</p>
 
 #### 🖥️ Tecnologias e ferramentas utilizadas neste repositório:
 
