@@ -1,4 +1,5 @@
 ### Python - Linguagem de Programação 
+Neste repositório, apresento minhas práticas com a linguagem de programação Python aplicada em análise de dados com aprendizado de máquina, estatística e matemática. 
 
 #### 🖥️ Tecnologias e Ferramentas utilizadas neste repositório:
 
